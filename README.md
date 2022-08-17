@@ -1,6 +1,6 @@
 ### **Hello! I'm Kirill, Web-developer!**
 * 🔭 WebDev, photo/video and travel
-* 📫 Email: kirpitch@inbox.ru1
+* 📫 Email: kirpitch@inbox.ru
 ____
 ### **Сontacts**
 <a href="https://t.me/kirjen"> <img src="https://st3.depositphotos.com/4141023/14403/v/450/depositphotos_144034639-stock-illustration-paper-airplane-icons-vector.jpg" width="35" height="35"></a>
