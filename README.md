@@ -1,4 +1,4 @@
-### **Hello! I'm Kirill, Web-developer!**12
+### **Hello! I'm Kirill, Web-developer!**
 * 🔭 WebDev, photo/video and travels
 * 📫 Email: kirpitch@inbox.ru
 ____
