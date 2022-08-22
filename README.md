@@ -7,7 +7,7 @@ ____
 <a href="https://vk.com/k.kirichenko"> <img src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg" width="35" height="35"></a>
 <a href="https://www.instagram.com/curlykirj/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" width="35" height="35"></a>
 <div>
-<a href="https://www.codewars.com/users/Kirjen/badges/micro"><img src="https://www.codewars.com/users/Kirjen/badges/micro"></a>
+<a href="https://www.codewars.com/users/Kirjen"><img src="https://www.codewars.com/users/Kirjen/badges/micro"></a>
 </div>
 
 
