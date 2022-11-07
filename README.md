@@ -4,7 +4,7 @@
 ____
 ### **Сontacts**
 <a href="https://t.me/kirjen"> <img src="https://st3.depositphotos.com/4141023/14403/v/450/depositphotos_144034639-stock-illustration-paper-airplane-icons-vector.jpg" width="35" height="35"></a>
-<a href="https://www.instagram.com/curlykirj/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" width="35" height="35"></a>
+<a href="https://www.instagram.com/curlykirj/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" width="35" height="35"></a>
 <div>
 <a href="https://www.codewars.com/users/Kirjen"><img src="https://www.codewars.com/users/Kirjen/badges/micro"></a>
 </div>
