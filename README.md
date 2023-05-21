@@ -1,5 +1,5 @@
 ### **Hello! I'm Kirill, Web-developer!**
-* 🔭 WebDev, photo/video and travels1
+* 🔭 WebDev, photo/video and travels
 * 📫 Email: kirpitch@inbox.ru
 ____
 ### **Сontacts**
